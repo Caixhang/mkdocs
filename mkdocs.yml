@@ -1,6 +1,0 @@
-site_name: My Docs
-nav:
-     - java: index.md
-     - flowable: flowable.md
-     - 其他: other.md
-theme: readthedocs
