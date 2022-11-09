@@ -1,4 +1,6 @@
 site_name: My Docs
 nav:
-     - Home:index.md
-     - First:first.md
+     - java: index.md
+     - flowable: flowable.md
+     - 其他: other.md
+theme: readthedocs
